@@ -3,7 +3,7 @@ using namespace std;
 
 using namespace std;
 
-int main()
+int main_main()
 {
     cout<<"OOP"<< endl;
     return 0;
