@@ -26,8 +26,7 @@ struct DateTime{
 // Design separate Date & time structs
 // DateTime is "composed" of Date and Time
 
-int main_h1()
-{
+int main_h1(){
     Date d;
     d.day=10;
     d.month=5;

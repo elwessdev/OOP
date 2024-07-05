@@ -28,8 +28,7 @@ class Rectangle {
 
 };
 
-int main()
-{
+int main_h2(){
     Rectangle rec(5.6,4.3);
     cout<<rec.getLength()<<endl;
     cout<<rec.getWidth()<<endl;

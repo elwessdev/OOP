@@ -33,6 +33,8 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="Abstraction.cpp" />
+		<Unit filename="Homework-1.cpp" />
+		<Unit filename="Homework-2.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
