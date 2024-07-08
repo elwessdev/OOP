@@ -69,6 +69,7 @@ class Apartment{
             this->bathroom=bath;
         }
 };
+
 class Elevator{
     private:
         int width;
