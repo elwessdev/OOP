@@ -34,14 +34,11 @@
 		</Compiler>
 		<Unit filename="Abstraction.cpp" />
 		<Unit filename="Constructor-Destructor.cpp" />
+		<Unit filename="Date.cpp" />
 		<Unit filename="Encapsulation.cpp" />
-		<Unit filename="Homework-1.cpp" />
-		<Unit filename="Homework-2.cpp" />
 		<Unit filename="Invoice.cpp" />
-		<Unit filename="const&amp;dest-homework-2.cpp" />
-		<Unit filename="const&amp;dest-homework-3.cpp" />
-		<Unit filename="const&amp;dest-homework-4.cpp" />
-		<Unit filename="const&amp;dest-homework-5.cpp" />
+		<Unit filename="University/main.cpp" />
+		<Unit filename="class.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
